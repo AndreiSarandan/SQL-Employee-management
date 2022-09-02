@@ -14,6 +14,7 @@ For any employee, the following information must be saved in an Oracle database:
   -> Purchase document
   
 Knowing that the 'name' does not exceed 15 characters, the 'first name' does not exceed 20 characters, the 'identification number' has exactly 6 characters, the description of a product does not exceed 40 characters, an employee can have a maximum of 5 computers and that on one computer there can be installed any software, it is required:
+
 2. To write the SQL commands for the tables designed in the previous point.
 
 3. Write the SQL commands for populating the database with the following information:
